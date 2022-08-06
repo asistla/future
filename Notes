@@ -1,0 +1,26 @@
+What is this?
+
+This is ambition. Or stupidity. It's often hard to decide.
+
+We want to build a system that:
+    1. Takes a (location|search_key|entity|..)? as input.
+    2. Generates maps of events and context across a time span.
+        - How do we get this information?
+        - How does the time span function? How much do we need?
+        - How do we get the superset of all information to filter by search?
+        - How do we filter relevant information?
+        - How do we decide on relevance?
+    3. RANDOMNESS.
+        - How much of the future actually is predictable?
+        - How can we know this?
+        - How much is truly chaotic?
+        - What do we do about this chaotic behavior? Can anything be done?
+        - How does that affect things? Can we narrow our prediction focus then?
+    4. What is the condition for success?
+        - How do we decide if we have made a correct prediction? 
+        - Will knowledge of the prediction affect the predicetion? Will a prediction only be succesful if it is hidden?
+    5. What are we missing?
+        - Known unknowns?
+        - Known knows?
+        - Unknown knowns?
+        - Uknown unknowns?
